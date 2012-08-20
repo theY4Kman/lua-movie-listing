@@ -5,8 +5,7 @@ A port of my [php-movie-listing](https://github.com/theY4Kman/php-movie-listing)
 ## Using it yourself
 
 1. **Install** [Lua](http://www.lua.org/download.html)
-2. **Install** [Xavante](http://keplerproject.github.com/xavante/) and [WSAPI](http://keplerproject.github.com/wsapi/) (to run Xavante as a standalone server), and their dependencies.
-    * In order to run lua-movie-listing, you'll need [LuaFileSystem](http://keplerproject.github.com/luafilesystem/), as required by Xavante's file handler.
+2. **Install** [Xavante](http://keplerproject.github.com/xavante/) and [WSAPI](http://keplerproject.github.com/wsapi/) (to run Xavante as a standalone server), and their dependencies. In order to run lua-movie-listing, you'll also need [LuaFileSystem](http://keplerproject.github.com/luafilesystem/), as required by Xavante's file handler.
 3. **Download** the correct distribution of **MediaInfo** ([download page](http://mediainfo.sourceforge.net/Download)) for your platform and place the executables in the `MediaInfo` directory.
 4. **Configure** the `movies.lua` file:
    
