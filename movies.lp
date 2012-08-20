@@ -107,7 +107,6 @@
   </head>
   <body>
     <h1>Listing all files and directories under "<%= ROOT_DIR %>"</h1>
-	<p><%= get_media_info('D:\Movies\21 Jump Street (2012) DVDRip XviD-MAXSPEED\21 Jump Street (2012) DVDRip XviD-MAXSPEED www.torentz.3xforum.ro.avi') %></p>
     <p>
       <span style="color: green;">green</span> means video file<br />
       <span style="color: blue;">blue</span> means directory<br />
